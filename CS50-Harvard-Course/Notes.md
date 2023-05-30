@@ -1,6 +1,6 @@
-Harvard CS50 - Full Computer Science University Course
-Link: https://www.youtube.com/watch?v=8mAITcNt710&list=LL&index=58
-Only do first 7 sections 
+# Harvard CS50 - Full Computer Science University Course
+## Link: https://www.youtube.com/watch?v=8mAITcNt710&list=LL&index=58
+Only do first 7 sections!
 Lecture 0: Scratch
 Lecture 1: C 
 Lecture 2: Arrays 
