@@ -14,6 +14,7 @@
 
 ### Lecture 1: C 
 * By the end of lec: write "correct" code (does thing + good design)
+* **IDE** = Integrated Developer Environment (used to write code)
 * 
 
 ### Lecture 2: Arrays 
