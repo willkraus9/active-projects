@@ -1,5 +1,6 @@
 # Harvard CS50 - Full Computer Science University Course (Only First 7)
 ## Link: https://www.youtube.com/watch?v=8mAITcNt710&list=LL&index=58
+## Coding sandbox: https://sandbox.cs50.io/a8e20238-ad4c-4250-9e24-ce50a1f4d0cd? (easier than downloading library)
 ### Lecture 0: Intro / Scratch
  * action verbs = **Functions**
  * answer some question / fork = **Conditionals**
@@ -34,12 +35,26 @@
         * in C: ans = get_string() (receives string in response to be assigned to "ans" function)
             * also have to tell what kind of variable the function will be stored as
     * All together: string answer = get_string("What is your name?");
-* 
+* **Float** = regular number
     string answer = get_string("What's Your Name?");
     printf("Hi there, %s!",answer);
-    
 * so to make the files, you have to open bash in the terminal (have the $ instead of PC) for stuff to work?
-    * didn't get it to work when done at 5:10 on 5/30
+* All three syntax structures are the same: 
+    * int counter = counter + 1;
+    * int counter += 1;
+    * int counter++;
+* **const** = add before int to make unchangeable; capitalize variable name!
+* **NB:** *if you find youself copying and pasting, you are probably doing something inefficient!*
+* || = or, && = and
+* single quotes = single char; double quotes = string
+* **while loops**: while(true)
+* **for loops**: for (int i = 0; condition; if so, do something else)
+    * for (int i=0; i<=3; i++)
+* create function: void name (input) 
+* **NB**: *read top to bottom (get functions different orders by void at top, then explain later at bottom)*
+* 
+
+
 ### Lecture 2: Arrays 
 ### Lecture 3: Algorithms 
 ### Lecture 4: Memory 
@@ -49,7 +64,8 @@
 * time is:  0:00:00 as of 5/30 ~1:29pm
 * time is:  0:51:04 as of 5/30 2:50pm
 * time is:  1:46:27 as of 5/30 3:24pm 
-* time is:  2:06:50 as of 5/30 4:14pm (had to get compiler for C/C++ straight)
+* time is:  2:06:50 as of 5/30 4:14pm (had to get compiler for C)
 * time is:  2:43:33 as of 5/30 5:02pm (cs50 implementation problems)
-* time is:  x:xx:xx as of x/xx x:xxyy
+* time is:  2:43:33 as of 5/31 1:10pm
+* time is:  3:18:12 as of 5/31 2:08pm (getting environment set up)
 
