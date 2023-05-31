@@ -48,14 +48,14 @@
 * || = or, && = and
 * single quotes = single char; double quotes = string
 * **while loops**: while(true)
+    * **do while**: do a task, then see if actually possible.
 * **for loops**: for (int i = 0; condition; if so, do something else)
     * for (int i=0; i<=3; i++)
 * create function: void name (input) 
 * **NB**: *read top to bottom (get functions different orders by void at top, then explain later at bottom)*
-* 
-
-
+* **Break** = completely shut down code (can use to end loops) 
 ### Lecture 2: Arrays 
+* 
 ### Lecture 3: Algorithms 
 ### Lecture 4: Memory 
 ### Lecture 5: Data Structures
@@ -68,4 +68,5 @@
 * time is:  2:43:33 as of 5/30 5:02pm (cs50 implementation problems)
 * time is:  2:43:33 as of 5/31 1:10pm
 * time is:  3:18:12 as of 5/31 2:08pm (getting environment set up)
+* time is:  4:14:43 as of 5/31 3:02pm
 
