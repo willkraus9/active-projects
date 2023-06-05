@@ -55,7 +55,21 @@
 * **NB**: *read top to bottom (get functions different orders by void at top, then explain later at bottom)*
 * **Break** = completely shut down code (can use to end loops) 
 ### Lecture 2: Arrays 
-* 
+* clang = compile, -o = output, rm = remove
+* how to debug: use printf (print the values of variables)
+    * printf("variable is __") in a loop 
+    * could also use debug50 (commad from the get go)
+        * mention already compiled code, walk through code step by step
+            * pause execution at human pace
+* one recommended debugging technique: talk out loud about code
+    * "rubber duck debugging - talking through code - I said something stupid
+* **NB**: *As long as one variable in an arithmetic expression is a float (or something with more storage), all other variables will be too!* 
+* **Array** = matrix used to store multiple variables of the same storage type (char, string, etc.) together as one variable (eliminate extra variable names)
+    * int scores[3]; (array of size three, 3 = index)
+    * scores[0] = x, scores[1] = y (have to start at 0!)
+
+
+
 ### Lecture 3: Algorithms 
 ### Lecture 4: Memory 
 ### Lecture 5: Data Structures
@@ -69,4 +83,5 @@
 * time is:  2:43:33 as of 5/31 1:10pm
 * time is:  3:18:12 as of 5/31 2:08pm (getting environment set up)
 * time is:  4:14:43 as of 5/31 3:02pm
+* time is:  5:14:06 as of 5.31 4:00pm
 
