@@ -71,7 +71,30 @@
     * separate different strings = null character (8 0s, \0)
 * manual pages = helpful functions (might be complex)
 ### Lecture 3: Algorithms 
-### Lecture 4: Memory 
+* Running time of code: "big O" = takes n steps (on the order of x steps) 
+    * use mathematical formula to define what kind of loops are there
+        * larger n function = worse (takes more time)
+    * omega = how few steps (best case) - replace O with omega
+        * both upper and lower bound is same = theta
+* **linear search** = first, second, third, etc. (as good as can get when don't know system)
+* **binary search** = "phone book method" - search middle, than compare if less than or greater than value
+    * divide and conquer strategy = log n
+* can't compare two strings - need to use function
+* **Data Structure** = create own types of data like string, int, etc.
+    * typedef struct {string name; string number;} person
+        *people[0].name (go inside of the structure people and set name)
+* **selection sort** - swap two variables, go left to right
+    * for i from to 0 to n-1: smallest number in an array, swap smallest number with first number
+* **bubble sort** - sort two neighbor values at a time, do for everyone
+    * repeat n-1 times; for i from 0 to n-2: if numbers [i] and numbers [i+1] is out of order, then swap; if no swaps, then end
+* fastest sort: use **recursion** (a function calls itself)
+* **merge sort** - sort left half, sort right half, merge
+    * each section = sorted, break down into smaller parts
+    * if only one number, quit
+        * compare first element of first array, then second part of the array --> make new arrays
+            but how to sort first half --> do same sorting algorithm again
+### Lecture 4: Memory   
+* 
 ### Lecture 5: Data Structures
 
-
+* have to get to 13 hour mark
