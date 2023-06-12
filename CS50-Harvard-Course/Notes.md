@@ -1,4 +1,4 @@
-# Harvard CS50 - Full Computer Science University Course (up to Python)
+# Harvard CS50 - Full Computer Science University Course (done)
 ## Link: https://www.youtube.com/watch?v=8mAITcNt710&list=LL&index=58
 ## Coding sandbox: https://sandbox.cs50.io/a8e20238-ad4c-4250-9e24-ce50a1f4d0cd? (easier than downloading library)
 ### Lecture 0: Intro / Scratch
@@ -93,8 +93,3 @@
     * if only one number, quit
         * compare first element of first array, then second part of the array --> make new arrays
             but how to sort first half --> do same sorting algorithm again
-### Lecture 4: Memory   
-* 
-### Lecture 5: Data Structures
-
-* have to get to 13 hour mark
