@@ -1,4 +1,4 @@
-# Harvard CS50 - Full Computer Science University Course (Only First 7)
+# Harvard CS50 - Full Computer Science University Course (up to Python)
 ## Link: https://www.youtube.com/watch?v=8mAITcNt710&list=LL&index=58
 ## Coding sandbox: https://sandbox.cs50.io/a8e20238-ad4c-4250-9e24-ce50a1f4d0cd? (easier than downloading library)
 ### Lecture 0: Intro / Scratch
@@ -28,7 +28,7 @@
     * ls = list all files in folder
 * **NB:** *have to compile each time when make changes!*
 * in C: have functions, arguments
-    * functions: _word_ (
+    * functions: _word_
     * arguments: add double quotes (for **string** of words)
         * also have to end with semicolon
     * Return values - get value use and reuse
@@ -67,21 +67,11 @@
 * **Array** = matrix used to store multiple variables of the same storage type (char, string, etc.) together as one variable (eliminate extra variable names)
     * int scores[3]; (array of size three, 3 = index)
     * scores[0] = x, scores[1] = y (have to start at 0!)
-
-
-
+* strings are just arrays of characters - s[1] s[2] s[3]
+    * separate different strings = null character (8 0s, \0)
+* manual pages = helpful functions (might be complex)
 ### Lecture 3: Algorithms 
 ### Lecture 4: Memory 
 ### Lecture 5: Data Structures
-### Lecture 6: Python
-#### Roughly 4 hours per day!
-* time is:  0:00:00 as of 5/30 ~1:29pm
-* time is:  0:51:04 as of 5/30 2:50pm
-* time is:  1:46:27 as of 5/30 3:24pm 
-* time is:  2:06:50 as of 5/30 4:14pm (had to get compiler for C)
-* time is:  2:43:33 as of 5/30 5:02pm (cs50 implementation problems)
-* time is:  2:43:33 as of 5/31 1:10pm
-* time is:  3:18:12 as of 5/31 2:08pm (getting environment set up)
-* time is:  4:14:43 as of 5/31 3:02pm
-* time is:  5:14:06 as of 5.31 4:00pm
+
 
