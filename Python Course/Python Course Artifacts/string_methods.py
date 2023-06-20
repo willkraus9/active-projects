@@ -8,10 +8,3 @@ print(name.count("l"))
 #replace some letters in name variable 
 print(name.replace("i","a"))
 
-
-
-# TODO
-# sort out dinners + shopping list 
-# current things to do from old documents sort out
-# respond to email Sean Wang
-
