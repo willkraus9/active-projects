@@ -10,7 +10,7 @@ die_quantity=int(input("How many dice do you want of that type?: "))
 #output role (dice_quantity) times
 for i in range(0, die_quantity):
     #"generating number"
-    landed_number = (random.choice(range(1,(dice_dict.get(die_selected)),1)))
+    landed_number = (random.choice(range(1,(dice_dict.get(die_selected)+1),1)))
     print("You rolled a "+str(landed_number))
 
 #Shipping Crate: 
