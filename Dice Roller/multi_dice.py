@@ -11,7 +11,7 @@ die_quantity=int(input("How many dice do you want of that type?: "))
 for i in range(0, die_quantity):
     #"generating number"
     landed_number = (random.choice(range(1,(dice_dict.get(die_selected)+1),1)))
-    print("You rolled a "+str(landed_number))
+    print("You rolled a "+str(landed_number)+ ".")
 
 #Shipping Crate: 
 #"
@@ -20,6 +20,6 @@ for i in range(0, die_quantity):
 # die_selected = input("What kind of die?: ")
 # die_quantity = int(input("How many dice do you want of that type?: "))
 # for i in range(0, die_quantity):
-#    landed_number = (random.choice(range(1,(dice_dict.get(die_selected)),1)))
+#    landed_number = (random.choice(range(1,(dice_dict.get(die_selected)+1),1)))
 #    print("You rolled a "+str(landed_number))
 #"
